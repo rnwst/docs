@@ -356,7 +356,7 @@ crashes. We highly recommend using `systemd` to supervise your app.
     WantedBy=default.target
 
     [Service]
-    ExecStart=/home/{CRSid}/myapp/run
+    ExecStart=/home/{CRSid}/myapp/run.sh
     Restart=always
     ```
 
