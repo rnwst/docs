@@ -297,7 +297,7 @@ Replace `~/myapp/src` with the path to your app.
 Now, for all frameworks, make the `run.sh` script executable:
 
 ```bash
-chmod +x ~/myapp/run
+chmod +x ~/myapp/run.sh
 ```
 
 You should now be able to execute the script and access your website (or
